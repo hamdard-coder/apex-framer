@@ -16,7 +16,7 @@ const Hero = () => {
       <Navbar />
 
       <Container>
-        <div className="relative z-10 lg:flex lg:items-center lg:justify-between text-white">
+        <div className="relative z-10 flex flex-col lg:flex lg:items-center lg:justify-between text-white">
           {/* left */}
           <div>
             <div>
